@@ -4,12 +4,12 @@ I'm Lingyu Li @Shanghai Jiao Tong University. I'm interested in digital twin min
 
 For more information about me, visit my [academic homepage](https://lingyulipsy.github.io)
 
-Check my computational Lacanian psychoanalysis project [here](https://github.com/digitaltwinmind)
-
 Selected projects:
+
+[Reflection-Bench: Evaluating Epistemic Agency in Large Language Models](https://github.com/AI45Lab/ReflectionBench)
 
 [Formalizing Lacanian Psychoanalysis Through the Free Energy Principle](https://github.com/DigitalTwinMind/ActiveInferenceLacan)
 
-[Reflection-Bench: Evaluating Epistemic Agency in Large Language Models](https://github.com/AI45Lab/ReflectionBench)
+[Computational Lacanian Psychoanalysis: theoretical framework, self-identification, and suicidal ideation](https://github.com/digitaltwinmind)
 
 
