@@ -2,7 +2,7 @@
 
 I'm Lingyu Li @Shanghai Jiao Tong University. I'm interested in digital twin mind through AI, cognitive science, and philosophy.
 
-For more information about me, visit my [academic homepage](https://lingyulipsy.github.io)
+For more information about me, visit my [academic homepage](https://lingyuli-cogs.github.io)
 
 Selected projects:
 
