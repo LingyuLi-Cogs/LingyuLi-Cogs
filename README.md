@@ -6,9 +6,9 @@ For more information about me, visit my [academic homepage](https://lingyuli-cog
 
 Selected projects:
 
-[Reflection-Bench: Evaluating Epistemic Agency in Large Language Models](https://github.com/AI45Lab/ReflectionBench)
+[Reflection-Bench: Evaluating Epistemic Agency in Large Language Models](https://ReflectionBench.github.io)
 
-[Become Human: How Language Models Internalize Human Cognitive Patterns](https://github.com/LingyuLi-Cogs/BecomeHuman)
+[The Other Mind: How Language Models Internalize Human Temporal Cognition](https://theothermind.github.io)
 
 [Formalizing Lacanian Psychoanalysis Through the Free Energy Principle](https://github.com/DigitalTwinMind/ActiveInferenceLacan)
 
