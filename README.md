@@ -4,7 +4,7 @@ I'm Lingyu Li @Shanghai Jiao Tong University. I'm interested in digital twin min
 
 For more information about me, visit my [academic homepage](https://lingyuli-cogs.github.io)
 
-Selected projects:
+### Selected projects:
 
 [Reflection-Bench: Evaluating Epistemic Agency in Large Language Models](https://ReflectionBench.github.io)
 
